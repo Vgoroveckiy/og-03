@@ -1,0 +1,29 @@
+# Python
+*.pyc
+__pycache__/
+*.log
+instance/
+webapp/webapp.db
+*.sqlite3
+
+# IDEs and Editors
+.vscode/
+*.swp
+
+# Build files
+*.mo
+*.pot
+*.pyo
+
+# Other data
+*.kml
+*.obj
+*.mtl
+*.dae
+*.stl
+*.wrl
+*.x3d
+
+# Local configuration files
+.localrc
+.local.cfg
